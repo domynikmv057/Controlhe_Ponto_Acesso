@@ -26,7 +26,7 @@
 
 
 
-   - ![image-20210731015132935](Sistema-Ponto-Controle\Live\imgsred\image-20210731015132935.png)
+   - ![image-20210731015132935](image-20210731015132935.png)
 
    - ![image-20210731015234122](C:\Users\Domynik\OneDrive\Área de Trabalho\Dev\GitHub\Controlhe_Ponto_Acesso\Sistema-Ponto-Controle\Live\imgsred\image-20210731015234122.png)
 
